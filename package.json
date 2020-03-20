@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Clay Tercek",
+  "license": "MIT",
+  "baseUrl": "https://cly.li",
+  "private": true
+}
