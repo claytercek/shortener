@@ -1,1 +1,17 @@
-/* https://claytercek.com
+# live project urls
+/live/wilco          https://claytercek.github.io/wilco/
+/live/watchlist-web  https://claytercek.github.io/watchlist-web/
+/live/zodiac         https://claytercek.github.io/zodiac/
+/live/portfolio16    https://claytercek.github.io/portfolio-2016/
+/live/portfolio17    https://claytercek.github.io/portfolio-2017/index.html
+/live/crowd          https://crowd-playlist.herokuapp.com
+/live/stack          https://claytercek.github.io/stack/
+
+# case studies
+/case/watchlist https://claytercek.com/journal/watchlist
+
+# site links
+/proj/watchlist https://claytercek.com/work/watchlist
+
+# fallback
+/* https://claytercek.com 
